@@ -1,0 +1,14 @@
+{
+  "souscripteur":{
+    "age":56,
+    "profession":"en_activite",
+    "codePostal":45676,
+    "bonus":0.8
+  },
+  "vehicule":{
+    "vehiculeSRA":87456,
+    "ageVehicule":11
+  },
+  "couverture":"eco",
+  "idFormule":"5"
+}
